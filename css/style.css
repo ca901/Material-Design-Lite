@@ -1,0 +1,148 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.cf-color {
+	background-color: #000; 
+}
+
+.title-color {
+	color: #fff;
+    text-decoration: none;
+}
+
+.nav-link-sup {
+	font-weight: 700;
+	font-size: 16px;
+}
+
+.nav-link-sup:hover {
+	border-bottom: 4px solid #8bc34a;
+}
+
+.cf-drawer {
+	border-right: none;
+}
+
+.cf-drawer-separator {
+	height: 2px;
+	background: #dcdcdc;
+}
+
+.cf-drawer .mdl-layout-title {
+	height: 150px;
+}
+
+.cf-slide {
+	background: url(../images/slide.jpg) no-repeat center center;
+	background-size: cover;
+	height: 700px;
+	width: 100%;
+}
+
+.overlay {
+	background-color: rgba(0,0,0,0.5);
+	height: 700px;
+	width: 100%;
+}
+
+.cf-slogan-ppal {
+	color: #fff;
+	font-weight: 700;
+	line-height: 1;
+}
+
+.cf-slogan {
+	font-size: 62px;
+	padding-top: 200px;
+}
+
+.cf-slogan-sub {
+	font-size: 30px;
+	padding-top: 38px;
+}
+
+.cf-paseo {
+	color:#767777;
+	font-size: 30px;
+	padding-top:400px; 
+}
+
+.cf-section-taller {
+	position: relative;
+	padding: 8px 0;
+	max-width: 1044px;
+	margin: 0 auto;
+}
+
+.cf-section-taller .cf-section-title {
+	padding: 110px 0;
+	text-align: center;
+}
+
+#grid-taller .mdl-card__media {
+	overflow: hidden;
+	background: transparent;
+}
+
+#grid-taller .mdl-card__media img {
+	width: 100%;
+}
+
+.cf-link {
+	color: #8bc34a !important;
+}
+
+.cf-informacion {
+	position: relative;
+	background: url(../images/imag.jpg)center center no-repeat;
+	height: 600px;
+	background-size: cover;
+}
+
+.cf-informacion-hg {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	background-color: #1b5e20;
+}
+
+.cf-informacion-text {
+	color: #fff;
+	margin-left: 25%;
+	max-width: 800px;
+	padding: 24px;
+	text-align: left;
+}
+
+.cf-informacion-text>p {
+	padding-top: 10px;
+}
+
+.cf-bottom-youtube {
+	background-color:#b71c1c;
+	color: #fff;
+
+}
+
+.cf-eventos {
+	margin: 30px auto;
+	max-width: 1044px;
+}
+
+.cf-title {
+	margin: 20px auto;
+}
+
+.cf-compartir {
+	position: relative;
+	float: right;
+	top: -4px;
+}
+
+#eventos .mdl-card__supporting-text>p {
+	padding-top: 28px;
+}
+
